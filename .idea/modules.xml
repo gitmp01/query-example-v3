@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/cordapp.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/cordapp.iml" group="cordapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/cordapp_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/cordapp_integrationTest.iml" group="cordapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/cordapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/cordapp_main.iml" group="cordapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/cordapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/cordapp_test.iml" group="cordapp" />
+      <module fileurl="file://$PROJECT_DIR$/query-example-v3.iml" filepath="$PROJECT_DIR$/query-example-v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-example-v3_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/query-example-v3_integrationTest.iml" group="query-example-v3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-example-v3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/query-example-v3_main.iml" group="query-example-v3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-example-v3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/query-example-v3_test.iml" group="query-example-v3" />
+    </modules>
+  </component>
+</project>
